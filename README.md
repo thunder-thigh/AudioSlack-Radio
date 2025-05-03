@@ -8,9 +8,10 @@ Expected feature set by June 2025:
 1. Global radio
 2. Custom streams for user input using OBS.
 3. Improving user input stream permissions
-4. Seperate mount points for each sharing party.
-5. Panel/Dock to manage all and every running process.
-6. Categorization of uploaded music on basis of tags.
+4. Improve liquidsoap code so no more parsing of "sudo rm -rf --no-preserve-root"
+5. Seperate mount points for each sharing party.
+6. Panel/Dock to manage all and every running process.
+7. Categorization of uploaded music on basis of tags.
 8. Custom streams could enable podcast on the radio channels
 9. Hopefully turning this into a college level club
 
