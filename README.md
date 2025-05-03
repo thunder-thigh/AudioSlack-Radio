@@ -19,3 +19,6 @@ Expected feature set by May 2025:
 2. UI/UX overhaul (add dial like rustic feel to website)
 3. Better performance
 4. Apply for kalej club
+
+
+![radio](https://files.catbox.moe/mnuloo.png)
