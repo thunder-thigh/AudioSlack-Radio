@@ -2,7 +2,8 @@
 AudioSlack is a college radio started in 2025. AudioSlack keeps focus on being lightweight, easy to setup and share.
 
 Radio works locally. Just need to port forward and link to domain for global access. 
-Refining things.
+
+Still haven't uploaded source code because I am refining things.
 Expected feature set by June 2025:
 1. Global radio
 2. Custom streams for user input using OBS.
