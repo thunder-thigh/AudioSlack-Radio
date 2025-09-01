@@ -1,0 +1,132 @@
+[2025-08-24  16:23:54] INFO main/main Icecast 2.4.4 server started
+[2025-08-24  16:23:54] INFO stats/_stats_thread stats thread started
+[2025-08-24  16:23:54] INFO connection/get_ssl_certificate No SSL capability on any configured ports
+[2025-08-24  16:23:54] INFO yp/yp_update_thread YP update thread started
+[2025-08-24  16:24:47] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:24:47] INFO fserve/fserve_client_create checking for file /favicon.ico (/usr/share/icecast2/web/favicon.ico)
+[2025-08-24  16:24:47] WARN fserve/fserve_client_create req for file "/usr/share/icecast2/web/favicon.ico" No such file or directory
+[2025-08-24  16:24:47] INFO fserve/fserve_client_create checking for file /icecast.png (/usr/share/icecast2/web/icecast.png)
+[2025-08-24  16:24:48] INFO admin/admin_handle_request Bad or missing password on admin command request (command: )
+[2025-08-24  16:26:13] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:19] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:20] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:20] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:20] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:21] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:21] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:22] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:25] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:26] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:27] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:28] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:28] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:29] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:32] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:33] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:38] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:39] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:44] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:45] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:45] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:46] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:46] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:46] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:46] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:47] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:47] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:26:47] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:33:52] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:34:08] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:34:08] INFO fserve/fserve_client_create checking for file /icecast.png (/usr/share/icecast2/web/icecast.png)
+[2025-08-24  16:34:08] INFO fserve/fserve_client_create checking for file /favicon.ico (/usr/share/icecast2/web/favicon.ico)
+[2025-08-24  16:34:08] WARN fserve/fserve_client_create req for file "/usr/share/icecast2/web/favicon.ico" No such file or directory
+[2025-08-24  16:34:12] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:34:12] INFO fserve/fserve_client_create checking for file /icecast.png (/usr/share/icecast2/web/icecast.png)
+[2025-08-24  16:34:13] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:39:55] INFO connection/_handle_source_request Source logging in at mountpoint "/radio.mp3" from 127.0.0.1
+[2025-08-24  16:39:55] WARN format/format_get_type Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2025-08-24  16:39:55] INFO admin/admin_handle_request Received admin command metadata on mount "/radio.mp3"
+[2025-08-24  16:39:55] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2025-08-24  16:39:55] INFO admin/command_metadata Metadata on mountpoint /radio.mp3 changed to "Unknown"
+[2025-08-24  16:39:55] INFO source/source_main listener count on /radio.mp3 now 0
+[2025-08-24  16:39:55] INFO admin/admin_handle_request Received admin command metadata on mount "/radio.mp3"
+[2025-08-24  16:39:55] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2025-08-24  16:39:55] INFO admin/command_metadata Metadata on mountpoint /radio.mp3 changed to "Aaron Dembski-Bowden - Chapter II: The Abandoned Crusade"
+[2025-08-24  16:40:14] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  16:40:14] INFO fserve/fserve_client_create checking for file /tunein.png (/usr/share/icecast2/web/tunein.png)
+[2025-08-24  16:40:14] INFO fserve/fserve_client_create checking for file /favicon.ico (/usr/share/icecast2/web/favicon.ico)
+[2025-08-24  16:40:14] WARN fserve/fserve_client_create req for file "/usr/share/icecast2/web/favicon.ico" No such file or directory
+[2025-08-24  16:40:23] INFO fserve/fserve_client_create checking for file /radio.mp3.m3u (/usr/share/icecast2/web/radio.mp3.m3u)
+[2025-08-24  16:40:26] INFO source/source_main listener count on /radio.mp3 now 1
+[2025-08-24  16:40:26] INFO source/source_main listener count on /radio.mp3 now 2
+[2025-08-24  16:40:26] INFO source/source_main listener count on /radio.mp3 now 1
+[2025-08-24  16:40:30] INFO source/source_main listener count on /radio.mp3 now 0
+[2025-08-24  16:40:48] INFO source/source_main listener count on /radio.mp3 now 1
+[2025-08-24  16:40:50] INFO fserve/fserve_client_create checking for file /favicon.ico (/usr/share/icecast2/web/favicon.ico)
+[2025-08-24  16:40:50] WARN fserve/fserve_client_create req for file "/usr/share/icecast2/web/favicon.ico" No such file or directory
+[2025-08-24  16:41:41] INFO source/get_next_buffer End of Stream /radio.mp3
+[2025-08-24  16:41:41] INFO source/source_shutdown Source from 127.0.0.1 at "/radio.mp3" exiting
+[2025-08-24  16:41:41] INFO source/source_clear_source 1 active listeners on /radio.mp3 released
+[2025-08-24  16:41:52] INFO main/_server_proc Caught halt request, shutting down...
+[2025-08-24  16:41:52] INFO main/main Shutting down
+[2025-08-24  16:41:52] INFO fserve/fserve_shutdown file serving stopped
+[2025-08-24  16:41:53] INFO slave/_slave_thread shutting down current relays
+[2025-08-24  16:41:53] INFO slave/_slave_thread Slave thread shutdown complete
+[2025-08-24  16:41:53] INFO auth/auth_shutdown Auth shutdown
+[2025-08-24  16:41:53] INFO yp/yp_shutdown YP thread down
+[2025-08-24  16:41:54] INFO stats/stats_shutdown stats thread finished
+[2025-08-24  23:04:40] INFO main/main Icecast 2.4.4 server started
+[2025-08-24  23:04:40] INFO yp/yp_update_thread YP update thread started
+[2025-08-24  23:04:40] INFO connection/get_ssl_certificate No SSL capability on any configured ports
+[2025-08-24  23:04:52] INFO connection/_handle_source_request Source logging in at mountpoint "/radio.mp3" from 127.0.0.1
+[2025-08-24  23:04:52] WARN format/format_get_type Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2025-08-24  23:04:52] INFO admin/admin_handle_request Received admin command metadata on mount "/radio.mp3"
+[2025-08-24  23:04:52] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2025-08-24  23:04:52] INFO admin/command_metadata Metadata on mountpoint /radio.mp3 changed to "Unknown"
+[2025-08-24  23:04:52] INFO source/source_main listener count on /radio.mp3 now 0
+[2025-08-24  23:04:52] INFO admin/admin_handle_request Received admin command metadata on mount "/radio.mp3"
+[2025-08-24  23:04:52] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2025-08-24  23:04:52] INFO admin/command_metadata Metadata on mountpoint /radio.mp3 changed to "Aaron Dembski-Bowden - Chapter VII: Ancient Secrets"
+[2025-08-24  23:04:54] INFO source/source_main listener count on /radio.mp3 now 1
+[2025-08-24  23:04:57] INFO fserve/fserve_client_create checking for file /favicon.ico (/usr/share/icecast2/web/favicon.ico)
+[2025-08-24  23:04:57] WARN fserve/fserve_client_create req for file "/usr/share/icecast2/web/favicon.ico" No such file or directory
+[2025-08-24  23:05:03] INFO source/source_main listener count on /radio.mp3 now 0
+[2025-08-24  23:26:55] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  23:26:55] INFO fserve/fserve_client_create checking for file /tunein.png (/usr/share/icecast2/web/tunein.png)
+[2025-08-24  23:26:55] INFO fserve/fserve_client_create checking for file /favicon.ico (/usr/share/icecast2/web/favicon.ico)
+[2025-08-24  23:26:55] WARN fserve/fserve_client_create req for file "/usr/share/icecast2/web/favicon.ico" No such file or directory
+[2025-08-24  23:27:09] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-24  23:27:09] INFO fserve/fserve_client_create checking for file /tunein.png (/usr/share/icecast2/web/tunein.png)
+[2025-08-24  23:31:43] INFO admin/admin_handle_request Received admin command metadata on mount "/radio.mp3"
+[2025-08-24  23:31:43] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2025-08-24  23:31:43] INFO admin/command_metadata Metadata on mountpoint /radio.mp3 changed to "Aaron Dembski-Bowden - Chapter IX: Gambits"
+[2025-08-25  00:02:06] INFO admin/admin_handle_request Received admin command metadata on mount "/radio.mp3"
+[2025-08-25  00:02:06] INFO util/util_conv_string converting metadata from UTF-8 to ISO8859-1
+[2025-08-25  00:02:06] INFO admin/command_metadata Metadata on mountpoint /radio.mp3 changed to "Aaron Dembski-Bowden - Chapter II: The Abandoned Crusade"
+[2025-08-25  00:17:39] INFO source/source_main listener count on /radio.mp3 now 1
+[2025-08-25  00:17:41] INFO fserve/fserve_client_create checking for file /favicon.ico (/usr/share/icecast2/web/favicon.ico)
+[2025-08-25  00:17:41] WARN fserve/fserve_client_create req for file "/usr/share/icecast2/web/favicon.ico" No such file or directory
+[2025-08-25  00:19:19] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-25  00:19:19] INFO fserve/fserve_client_create checking for file /favicon.ico (/usr/share/icecast2/web/favicon.ico)
+[2025-08-25  00:19:19] WARN fserve/fserve_client_create req for file "/usr/share/icecast2/web/favicon.ico" No such file or directory
+[2025-08-25  00:19:19] INFO fserve/fserve_client_create checking for file /icecast.png (/usr/share/icecast2/web/icecast.png)
+[2025-08-25  00:19:19] INFO fserve/fserve_client_create checking for file /tunein.png (/usr/share/icecast2/web/tunein.png)
+[2025-08-25  00:19:24] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-25  00:19:24] INFO fserve/fserve_client_create checking for file /icecast.png (/usr/share/icecast2/web/icecast.png)
+[2025-08-25  00:19:25] INFO fserve/fserve_client_create checking for file /style.css (/usr/share/icecast2/web/style.css)
+[2025-08-25  00:19:25] INFO fserve/fserve_client_create checking for file /favicon.ico (/usr/share/icecast2/web/favicon.ico)
+[2025-08-25  00:19:25] WARN fserve/fserve_client_create req for file "/usr/share/icecast2/web/favicon.ico" No such file or directory
+[2025-08-25  00:19:25] INFO fserve/fserve_client_create checking for file /tunein.png (/usr/share/icecast2/web/tunein.png)
+[2025-08-25  00:19:25] INFO fserve/fserve_client_create checking for file /icecast.png (/usr/share/icecast2/web/icecast.png)
+[2025-08-25  00:19:33] INFO source/source_main listener count on /radio.mp3 now 2
+[2025-08-25  00:20:02] INFO source/source_main listener count on /radio.mp3 now 1
+[2025-08-25  00:20:52] INFO source/source_shutdown Source from 127.0.0.1 at "/radio.mp3" exiting
+[2025-08-25  00:20:52] INFO source/source_clear_source 1 active listeners on /radio.mp3 released
+[2025-08-25  00:20:52] INFO main/_server_proc Caught halt request, shutting down...
+[2025-08-25  00:20:52] INFO main/main Shutting down
+[2025-08-25  00:20:52] INFO fserve/fserve_shutdown file serving stopped
+[2025-08-25  00:20:53] INFO slave/_slave_thread shutting down current relays
+[2025-08-25  00:20:53] INFO slave/_slave_thread Slave thread shutdown complete
+[2025-08-25  00:20:53] INFO auth/auth_shutdown Auth shutdown
+[2025-08-25  00:20:53] INFO yp/yp_shutdown YP thread down
+[2025-08-25  00:20:54] INFO stats/stats_shutdown stats thread finished
